@@ -17,6 +17,7 @@ public class WebDriverTest extends TestBase {
         open("/");
         aboutTinkoff.click();
         introductionHeaderText.shouldHave(text("О Тинькофф"));
+
     }
 
 }
