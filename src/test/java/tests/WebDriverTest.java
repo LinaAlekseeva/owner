@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class WebDriverTest extends TestBase {
     SelenideElement aboutTinkoff = $(".footer__cZ2dAc"),
-            introductionHeaderText = $(".abwoW-+QD9");
+            introductionHeaderText = $(".abnqbcKvd");
 
     @Test
     void amazonTest() {
